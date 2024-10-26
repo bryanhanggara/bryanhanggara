@@ -1,13 +1,17 @@
 ## Hi there 👋 I'm Bryan Hanggara
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-
-**bryanhanggara/bryanhanggara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Tools**
 
 <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" /> - MacOS
 <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" /> - Swift
 <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" /> - IDE
+
+Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
