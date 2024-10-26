@@ -23,6 +23,7 @@ I'm a passionate developer skilled in various programming languages and framewor
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bizagi.png/1200px-Bizagi.png" alt="Bizagi" width="50" height="50"/>
     <img src="https://developers.google.com/static/idx/images/icon-192.png" alt="Project IDX" width="50" height="50"/>
+    <img src="https://static-00.iconduck.com/assets.00/sass-icon-1024x1024-sxpvtqae.png" alt="Project IDX" width="50" height="50"/>
 </p>
 
 ### 📈 GitHub Stats
