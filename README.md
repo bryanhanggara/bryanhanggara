@@ -25,7 +25,8 @@ I'm a passionate developer skilled in various programming languages and framewor
 
 ### 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryanhanggara&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanhanggara&layout=compact&theme=radical)
 
 ### 📫 Connect with Me
 
