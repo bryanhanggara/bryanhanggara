@@ -31,6 +31,8 @@ I'm a passionate developer skilled in various programming languages and framewor
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Twitter](https://twitter.com/yourprofile)
+- [Instagram](https://instagram.com/yourprofile)
+- [Facebook](https://facebook.com/yourprofile)
 - [Personal Website](https://yourwebsite.com)
 
 Feel free to reach out if you'd like to collaborate on a project or just want to chat!
