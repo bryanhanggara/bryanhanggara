@@ -1,9 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Bryan Hanggara
 
 <!--
 **bryanhanggara/bryanhanggara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+<img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" /> - MacOS
+<img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" /> - Swift
+<img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" /> - IDE
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
