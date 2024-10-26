@@ -1,23 +1,29 @@
-![image](https://github.com/user-attachments/assets/ae3ed802-4087-4f4a-93e9-3b479e5eeba2)## Hi there 👋 I'm Bryan Hanggara
-<div id="header" align="center">
-   <img src="https://media.gifdb.com/penguin-data-coding-animation-sxihbi0j123pp3uv.gif"/>
-</div>
+# ![Header GIF](https://media.gifdb.com/penguin-data-coding-animation-sxihbi0j123pp3uv.gif)
 
-**Tools**
+## 👋 Hello, I'm [Your Name]!
 
-<img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" /> - MacOS
-<img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" /> - Swift
-<img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" /> - IDE
+I'm a passionate developer skilled in various programming languages and frameworks. I love creating efficient and innovative solutions to complex problems. 
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
 
+- ![Dart](https://img.shields.io/badge/Dart-00BFFF?style=flat&logo=dart&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/Laravel-F0522B?style=flat&logo=laravel&logoColor=white)
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
+### 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
+- [Personal Website](https://yourwebsite.com)
+
+Feel free to reach out if you'd like to collaborate on a project or just want to chat!
+
