@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Bryan Hanggara
+![image](https://github.com/user-attachments/assets/ae3ed802-4087-4f4a-93e9-3b479e5eeba2)## Hi there 👋 I'm Bryan Hanggara
 <div id="header" align="center">
- <iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+   <img src="https://media.gifdb.com/penguin-data-coding-animation-sxihbi0j123pp3uv.gif"/>
 </div>
 
 **Tools**
