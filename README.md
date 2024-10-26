@@ -1,6 +1,8 @@
-# ![Header GIF](https://media.gifdb.com/penguin-data-coding-animation-sxihbi0j123pp3uv.gif)
+<h1 style="align:center;">
+  <img src="https://media.gifdb.com/penguin-data-coding-animation-sxihbi0j123pp3uv.gif" alt="Header GIF" style="max-width: 100%; height: auto;">
+</h1>
 
-## 👋 Hello, I'm [Your Name]!
+## 👋 Hello, I'm Bryan Hanggara!
 
 I'm a passionate developer skilled in various programming languages and frameworks. I love creating efficient and innovative solutions to complex problems.
 
