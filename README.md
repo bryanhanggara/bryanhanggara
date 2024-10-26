@@ -1,6 +1,6 @@
 # ![Header GIF](https://media.gifdb.com/penguin-data-coding-animation-sxihbi0j123pp3uv.gif)
 
-## 👋 Hello, I'm Bryan Hanggara!
+## 👋 Hello, I'm [Your Name]!
 
 I'm a passionate developer skilled in various programming languages and frameworks. I love creating efficient and innovative solutions to complex problems.
 
@@ -15,7 +15,12 @@ I'm a passionate developer skilled in various programming languages and framewor
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/mysql-original.svg" alt="Flutter" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/3d/Bizagi_Logo.png" alt="Bizagi" width="50" height="50"/>
+    <img src="https://example.com/project-idx-logo.png" alt="Project IDX" width="50" height="50"/>
 </p>
 
 ### 📈 GitHub Stats
