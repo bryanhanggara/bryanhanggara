@@ -1,19 +1,21 @@
 # ![Header GIF](https://media.gifdb.com/penguin-data-coding-animation-sxihbi0j123pp3uv.gif)
 
-## 👋 Hello, I'm [Your Name]!
+## 👋 Hello, I'm Bryan Hanggara!
 
-I'm a passionate developer skilled in various programming languages and frameworks. I love creating efficient and innovative solutions to complex problems. 
+I'm a passionate developer skilled in various programming languages and frameworks. I love creating efficient and innovative solutions to complex problems.
 
 ### 🛠️ Technologies & Tools
 
-- ![Dart](https://img.shields.io/badge/Dart-00BFFF?style=flat&logo=dart&logoColor=white)
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- ![Laravel](https://img.shields.io/badge/Laravel-F0522B?style=flat&logo=laravel&logoColor=white)
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
+</p>
 
 ### 📈 GitHub Stats
 
@@ -26,4 +28,3 @@ I'm a passionate developer skilled in various programming languages and framewor
 - [Personal Website](https://yourwebsite.com)
 
 Feel free to reach out if you'd like to collaborate on a project or just want to chat!
-
