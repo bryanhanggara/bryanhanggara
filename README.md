@@ -1,4 +1,6 @@
-# ![Header GIF](https://camo.githubusercontent.com/b19d38b4d8183af55be7557f83fc385a4a5b6542d42e53a4fad31f265e69214c/68747470733a2f2f63757465636166652e6172742f77702d636f6e74656e742f75706c6f6164732f323032332f30332f3033396239342e676966)
+<div align="center">
+  <img src="https://media.tenor.com/c_KoArBa4NYAAAAi/work-future.gif" alt="Header GIF" style="max-width: 100%; height: auto;">
+</div>
 
 ## 👋 Hello, I'm Bryan Hanggara!
 
