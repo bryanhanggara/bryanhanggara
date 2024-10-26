@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/c_KoArBa4NYAAAAi/work-future.gif" alt="Header GIF" style="max-width: 100%; height: 300;">
+  <img src="https://media.tenor.com/c_KoArBa4NYAAAAi/work-future.gif" alt="Header GIF" style="max-width: 200px; height: 200px;">
 </div>
 
 ## 👋 Hello, I'm Bryan Hanggara!
