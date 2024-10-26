@@ -25,14 +25,11 @@ I'm a passionate developer skilled in various programming languages and framewor
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Instagram](https://instagram.com/yourprofile)
-- [Facebook](https://facebook.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
-
+<p>
+    <a href="https://www.linkedin.com/in/bryan-hanggara-235455255"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkln" width="50" height="50"/></a>
+</p>
 Feel free to reach out if you'd like to collaborate on a project or just want to chat!
